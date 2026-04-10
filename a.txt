@@ -9,3 +9,4 @@ Precipitation: Water, in liquid or solid form, that falls from the atmosphere.
 Atmospheric Pressure: The weight of the air, often indicating clear skies (high pressure) or storms (low pressure).
 Clouds: Formed by rising and cooling air, affecting solar energy absorption.
 today the weather is sunny and a little bit cloudy.
+i love summer weather.
